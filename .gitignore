@@ -1,0 +1,8 @@
+.idea/
+*/.DS_Store
+runtime/logs/
+lastupdate.tmp
+shop
+*.exe
+shop.tar.gz
+tmp/
